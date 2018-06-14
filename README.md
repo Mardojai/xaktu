@@ -1,2 +1,4 @@
 # Xaktu
-HTML, CSS, and JS front-end framework for building user interfaces.
+Web front-end framework for building user interfaces.
+
+Alpha preview coming soon.
